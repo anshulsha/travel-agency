@@ -24,3 +24,5 @@ sh setup.sh
 
 
 ```
+
+2. Live link to app (http://65.2.137.101/)
