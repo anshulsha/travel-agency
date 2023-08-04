@@ -16,6 +16,8 @@
 
 ```bash
 
+git clone https://github.com/anshulsha/travel-agency.git
+
 sh setup.sh
 
 
