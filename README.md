@@ -18,6 +18,8 @@
 
 git clone https://github.com/anshulsha/travel-agency.git
 
+cd travel-agency
+
 sh setup.sh
 
 
