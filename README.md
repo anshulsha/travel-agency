@@ -26,3 +26,5 @@ sh setup.sh
 ```
 
 2. Live link to app (http://65.2.137.101/)
+
+3. Whole tech stack is dockerized from ( frontend, backend, nginx, to postgres db ) and I am using AWS EC2 instance for deployment.
